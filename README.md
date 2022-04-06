@@ -16,4 +16,6 @@ En el proyecto se crea una Base de datos en donde se almacenan dos tablas (post_
 - Alejandra Barria
 - Kika Cortes
 - Adriana Oviedo 
+
+## Vista Tablas BD post_db
 ![](https://github.com/AdrianaOL/operaciones_tabla/blob/main/img/Captura.PNG)
