@@ -17,5 +17,5 @@ En el proyecto se crea una Base de datos en donde se almacenan dos tablas (post_
 - Kika Cortes
 - Adriana Oviedo 
 
-## Vista Tablas BD post_db
+## Vista Tablas Base de datos "post_db"
 ![](https://github.com/AdrianaOL/operaciones_tabla/blob/main/img/Captura.PNG)
